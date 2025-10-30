@@ -16,7 +16,7 @@ Utilizando conceitos de Ciência de Dados, esta dashboard transforma dados bruto
 - **Service Workers**: Executa processamento pesado fora do núcleo principal da aplicação React, de forma assíncrona, melhorando a performance e a experiência do usuário.
 - **MUI**: Utilizado para a construção da interface, com abstração de complexos complexos, como DataGrid com paginação.
 - **ApexCharts**: Biblioteca de gráficos baseada em SVG, responsável pela renderização dos gráficos de barras. Embora não seja a mais otimizada em performance, oferece boa personalização e visualização clara.
-- **React, Javascript e Typescript**: Estrutura do projeto
+- **React, Javascript e Typescript**: Estrutura do projeto.
 
 ---
 
