@@ -6,8 +6,6 @@ import { FormularioSimuladorProvider } from './pages/Simulador/contexts/formular
 import { SimuladorProvider } from './pages/Simulador/contexts/simulacaoContext'
 
 export function App() {
-  console.log('Hello world!')
-
   return (
     <ThemeProvider theme={temaPadrao}>
       <Layout>
